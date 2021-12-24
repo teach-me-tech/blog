@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/teach-me-tech/blog.io/static/css/main.14f6cbb8.chunk.css",
+    "main.js": "/teach-me-tech/blog.io/static/js/main.a6d4eb07.chunk.js",
+    "main.js.map": "/teach-me-tech/blog.io/static/js/main.a6d4eb07.chunk.js.map",
+    "runtime-main.js": "/teach-me-tech/blog.io/static/js/runtime-main.d37407c9.js",
+    "runtime-main.js.map": "/teach-me-tech/blog.io/static/js/runtime-main.d37407c9.js.map",
+    "static/js/2.7741ccea.chunk.js": "/teach-me-tech/blog.io/static/js/2.7741ccea.chunk.js",
+    "static/js/2.7741ccea.chunk.js.map": "/teach-me-tech/blog.io/static/js/2.7741ccea.chunk.js.map",
+    "index.html": "/teach-me-tech/blog.io/index.html",
+    "static/css/main.14f6cbb8.chunk.css.map": "/teach-me-tech/blog.io/static/css/main.14f6cbb8.chunk.css.map",
+    "static/js/2.7741ccea.chunk.js.LICENSE.txt": "/teach-me-tech/blog.io/static/js/2.7741ccea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d37407c9.js",
+    "static/js/2.7741ccea.chunk.js",
+    "static/css/main.14f6cbb8.chunk.css",
+    "static/js/main.a6d4eb07.chunk.js"
+  ]
+}
