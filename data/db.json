@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Democracy",
+      "body": "In July 2021, Carl Gershman, the founding president of the National Endowment for Democracy (NED), retired after 37 years at the helm. Though not well known among the general public, Carl became a commanding figure within the global “democracy community,” widely admired for his remarkable energy and his unflagging devotion to the cause of democracy. I do not believe Carl ever sought another position. He held the job that he most wanted in the world. It is hard to imagine a happier fit between a leader and the organization he led than that between Carl and NED. Carl came to NED steeped in the global struggle for democracy and human rights as well as the movement for civil rights in the United States. When he was selected by NED’s Board of Directors as the fledgling organization’s first president in April 1984, he had to learn quickly how to operate in Washington. He had a modest amount of government experience, having served for three years as senior counselor to the U.S. ambassador to the United Nations, Jeane Kirkpatrick. That helped little, however, in dealing with Congress, on which NED’s funding and fate depended. But Carl had other kinds of experience that turned out to be enormously helpful in taking on the formidable task of directing a brand-new and politically controversial organization.",
+      "author": "Mark F. Plattner",
+      "id": 1
+    },
+    {
+      "title": "Russian Road to Autocracy",
+      "body": "Russia’s democratic collapse must rank as one of the most consequential setbacks among the third and fourth waves of democratization. A comprehensive explanation for Russia’s transition from autocracy and back again counts on both structure and agency, but leans toward agency. Structurally, Russia was forced to navigate democratic and market reforms while managing the dissolution of the Soviet empire. Yet the agency of individual actors may have played a more decisive role: It was Mikhail Gorbachev, not weakening state institutions or a failing command economy, who triggered regime change in the Soviet Union. Following Gorbachev, Boris Yeltsin made decisions that undermined democratic consolidation and to some extent paved the way for future autocratic restoration. The most notable of these was Yeltsin’s naming of Vladimir Putin as his successor. While Russians may be shaped by historical legacies, immutable cultural norms, or static institutions, they are not trapped forever by them. If some Russians in the past made decisions that produced autocracy, others in the future might make choices that engender democracy.",
+      "author": "Michael McFaul",
+      "id": 2
+    },
+    {
+      "title": "Chhath Puja",
+      "body": "Chhath puja is celebrated in whole north-eastern reason of INDIA mainly Bihar.",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "blog",
+      "body": " blog (a truncation of \"weblog\") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual, occasionally of a small group, and often covered a single subject or topic.",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
